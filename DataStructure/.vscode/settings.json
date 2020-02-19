@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.json": "json",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "thread": "cpp"
+    }
+}
